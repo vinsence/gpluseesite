@@ -47,7 +47,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="${ctx}"><img src="${ctxStatic}/images/logo.png" alt="成都寰宇" style="height:40px;"></a>
+            <a class="brand" href="${ctx}"><font color="black">${fns:getConfig('productName')}</font></a>
         </div>
     </div>
 </div>
